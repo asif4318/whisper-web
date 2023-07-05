@@ -1,3 +1,8 @@
+# Whisper Web Fork
+### Goals
+1. Add YouTube integration => Given a URL, get audio stream and transcribe. 
+
+<br/>
 # Whisper Web
 
 ML-powered speech recognition directly in your browser! Built with [🤗 Transformers.js](https://github.com/xenova/transformers.js).
